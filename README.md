@@ -121,13 +121,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 🤝 Contributing
 
 We welcome contributions! Feel free to fork the repository, make changes, and open pull requests. If you have suggestions or encounter issues, please open an issue in the repository.
-
----
-
-### 📌 Notes
-
-This `README.md` has been enhanced to provide a more **visually appealing** and **user-friendly** guide for anyone who wants to set up, run, and understand the **LlamaIndex** project. With clear instructions and organized structure, others will easily be able to contribute or adapt the project to their needs.
-
----
-
-✨ **Happy Coding!** ✨
