@@ -26,6 +26,16 @@ Before you get started, make sure you have the following:
 
 ## ⚙️ Setup
 
+### 0. Scratch
+```bash
+conda create -p venv python==3.12 -y
+conda activate ./venv 
+pip install -r requirements.txt
+
+
+pip install ipykernel
+```
+
 ### 1. Clone the repository
 
 Start by cloning the project to your local machine:
